@@ -1,0 +1,9 @@
+Elections Results
+___________________
+Total Votes: 803000
+___________________
+Candidate': 'Vestal', 'Percent of Vote': '48.0%', 'Total Votes Recieved': '385440
+Candidate': 'Torres', 'Percent of Vote': '44.0%', 'Total Votes Recieved': '353320
+Candidate': 'Seth', 'Percent of Vote': '5.0%', 'Total Votes Recieved': '40150
+Candidate': 'Cordin', 'Percent of Vote': '3.0%', 'Total Votes Recieved': '24090
+___________________
