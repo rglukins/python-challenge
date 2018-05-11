@@ -1,9 +1,11 @@
 Elections Results
-___________________
-Total Votes: 803000
-___________________
-Candidate': 'Vestal', 'Percent of Vote': '48.0%', 'Total Votes Recieved': '385440
-Candidate': 'Torres', 'Percent of Vote': '44.0%', 'Total Votes Recieved': '353320
-Candidate': 'Seth', 'Percent of Vote': '5.0%', 'Total Votes Recieved': '40150
-Candidate': 'Cordin', 'Percent of Vote': '3.0%', 'Total Votes Recieved': '24090
-___________________
+---------------------
+Total Votes: 3521001
+---------------------
+Khan:  63.0%  (2218231)
+Correy:  20.0%  (704200)
+Li:  14.0%  (492940)
+O'Tooley:  3.0%  (105630)
+---------------------
+Winner: Khan
+---------------------
